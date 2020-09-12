@@ -1,5 +1,4 @@
 {
-  "homepage": "http://imerial.github.io/portfolio",
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
@@ -10,6 +9,7 @@
     "react-ga": "^3.1.2",
     "react-scripts": "3.4.3"
   },
+  "homepage": "http://imerial.github.io/portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
